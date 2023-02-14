@@ -1,0 +1,19 @@
+#showbox{
+
+    width: 100%;
+
+    height: 83vh;
+
+    position: relative;
+
+    left: 1vw;
+
+    background-color: aqua;
+
+    top: -2vh;
+
+    display: flex;
+
+    flex-direction:column-reverse;
+
+}

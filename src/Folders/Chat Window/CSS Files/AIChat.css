@@ -1,0 +1,17 @@
+.AImessage{
+
+    position: relative;
+
+    width: 40%;
+
+    height: max-content; 
+
+    background-color: orange;
+
+    margin-bottom: 1rem;
+
+    left: 25.5vw;
+
+    border-radius : 1vh;
+
+}

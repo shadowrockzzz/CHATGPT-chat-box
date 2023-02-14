@@ -1,0 +1,17 @@
+#message{
+
+position: relative;
+
+width: 40%;
+
+height: max-content; 
+
+background-color: rebeccapurple;
+
+margin-bottom: 1rem;
+
+margin-left: 1rem;
+
+border-radius : 1vh;
+
+}

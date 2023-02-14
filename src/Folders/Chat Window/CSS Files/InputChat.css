@@ -1,0 +1,26 @@
+.input-box{
+
+    margin: auto;
+
+    position: absolute;
+
+    bottom: 1vh;
+
+    background-color: white;
+
+    left: 0.75vw;
+
+}
+
+.button {
+
+    display: inline;
+
+    position: relative;
+
+    bottom: 2vh;
+
+    left: 0.5vw;
+
+}
+

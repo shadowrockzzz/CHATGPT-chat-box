@@ -1,0 +1,19 @@
+.box_container {
+
+    margin :0px;
+
+    background-color: white;
+
+    width: 70vw;
+
+    height: 95vh;
+
+    margin: auto;
+
+    top: 2.5vh;
+
+    position: relative;
+
+    text-align: center;
+
+}

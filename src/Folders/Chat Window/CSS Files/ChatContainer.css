@@ -1,0 +1,24 @@
+#ChatBox {
+
+    margin: 0px;
+
+    position: relative;
+
+    width: 48vw;
+
+    height: 95vh;
+
+    top: 2vh;
+
+    left: 26vw;
+
+    border: 2px solid grey;
+
+    background-color: aliceblue;
+
+    border-radius: 7.2px;
+
+    overflow-y: scroll ;
+;
+
+}

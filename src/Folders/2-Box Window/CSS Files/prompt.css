@@ -1,0 +1,82 @@
+#inputfield {
+
+    border : 0px ;
+
+    position: relative;
+
+    width: 100%;
+
+    padding: 0px;
+
+    
+}
+
+button{
+
+    display: block;
+
+    position: relative;
+
+    top: 14vh;
+
+    left: 18vw;
+
+}
+
+.fieldset{
+
+    border: 1px solid black;
+
+    width: 30%;
+
+    position: relative;
+
+    left: 10vw;
+
+    top: 10vh;
+
+    padding-top: 1px;
+
+    padding-bottom: 1px;
+
+    padding-left: 3px;
+
+    padding-right: 6px;
+
+}
+
+legend {
+
+    left: 0px;
+
+}
+
+h3{
+    padding: 0px;
+
+    margin: 0px;
+
+    font-size: smaller;
+
+    font-weight: lighter;
+}
+
+.output-field {
+
+position: relative;
+
+display: flex;
+
+width: 70%;
+
+height:20vh ;
+
+top: 33vh;
+
+right: 1vw;
+
+justify-content: right;
+
+margin-left: 10vw;
+
+}
