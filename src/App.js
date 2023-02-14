@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import ChatContainer from './Folders/Chat Window/Scripts/ChatContainer';
 

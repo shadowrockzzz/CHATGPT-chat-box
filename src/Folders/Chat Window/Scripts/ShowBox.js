@@ -1,4 +1,4 @@
-import React, { useEffect ,useState} from 'react'
+import React, {useState} from 'react'
 import '../CSS Files/ShowBox.css'
 import MyChat from './MyChat' ;
 
@@ -32,7 +32,7 @@ export default function ShowBox(props) {
       const OpenAI = new OpenAIApi(configuration) ; 
       const promise = (message)=>{
           return new Promise(
-            function(resolve,reject){
+            function(resolve){
               let response = OpenAI.createCompletion({
                 "model": "curie",
                 "prompt": message,
